@@ -1,0 +1,9 @@
+name: ncbi-datasets
+channels:
+  - conda-forge
+  - bioconda
+  - defaults
+dependencies:
+  - ca-certificates=2024.6.2=hbcca054_0
+  - ncbi-datasets-cli=16.22.1=ha770c72_0
+prefix: /home/lazo_ozal/miniforge3/envs/ncbi-datasets
