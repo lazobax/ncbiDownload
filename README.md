@@ -1,5 +1,5 @@
 # ncbiDownload
-This script takes a `species_list.txt` and downloads all the genomes of the species in the list.
+This script takes a `species_list.txt` and downloads all the genomes and (proteomes, gtf, and feature tables) if available, of the species in the list.
 
 ## Notes
 + Make sure NCBI has the genome of the species.
